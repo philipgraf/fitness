@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Fitness</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="title_activity_main">Wake Up</string>
+    <string name="title_activity_welcome">Willkommen</string>
+    <string name="title_activity_start_data">Start Werte</string>
+    <string name="title_activity_goal">Ziele</string>
+
+    <string name="welcome_message">Hi und herzlich Willkommen bei Wake Up! Um dem ganzen hier einen persönlichen touch zu verleihen verrate uns bitte deinen Name.</string>
+    <string name="start_message">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</string>
+    <string name="goal_message">deine ziele</string>
+    <string name="next">Weiter</string>
+    <string name="weight">Gewicht</string>
+    <string name="fat">Fettanteil</string>
+    <string name="start_date">Start Datum</string>
+    <string name="name">Name</string>
+    <string name="choice_start_date">Startdatum wählen</string>
+
+
+    <string name="within_weeks">in … Wochen</string>
+    <string name="btn_finish">Let\'s start</string>
+    <string name="start_workout">Workout starten</string>
+    <string name="title_activity_workout">Workout</string>
+    <string name="intent_exercise">exercise</string>
+    <string name="start_exercise">Starten</string>
+    <string name="stop">Stop</string>
+</resources>
